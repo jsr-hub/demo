@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"products":["chyawanprash","gulabari","stresscom","virahat","glycodab","red","ashwagandtha"],"_id":"5e5df59a1c9d440000812465","brand":"dabur"},{"products":["max fresh"," strong teeth","vedshakthi","salt neem"," cibaca"],"_id":"5e5df75a1c9d440000812466","brand":"colgate"}]
